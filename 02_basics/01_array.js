@@ -31,8 +31,8 @@ myArray.unshift(9)                         // this method will add the value at 
 
 
 
-const newArray = myArray.join()                 // in this join method bracet will ermove of the array
-// console.log(newArray);
+const newArray = myArray.join()                 // in this join method bracet will remove of the array
+console.log(newArray);
 
 
 
